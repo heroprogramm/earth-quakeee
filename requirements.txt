@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+pymupdf>=1.22.0
+langchain>=0.0.300
+langchain-community>=0.0.11
+transformers>=4.30.0
+torch>=2.0.0
+faiss-cpu>=1.7.0
+sentence-transformers>=2.2.0
